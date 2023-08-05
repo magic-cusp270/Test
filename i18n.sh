@@ -1,4 +1,4 @@
-#!/bin/bash
+
 set -ev
 
 ## Extract translations keys from Erdapfel server code, views and bundles
